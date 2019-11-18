@@ -31,3 +31,9 @@ awesome things related to frontend develop
 
 ### Test
 - [jest]
+
+### Components & Libraries
+- [swiper](https://github.com/nolimits4web/swiper)
+- [vue-awesome-swiper](https://github.com/surmon-china/vue-awesome-swiper)
+- [draggable](https://github.com/Shopify/draggable)
+- [Vue.Draggable](https://github.com/SortableJS/Vue.Draggable)
