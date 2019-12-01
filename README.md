@@ -4,6 +4,7 @@ awesome things related to frontend develop
 ### Animation
 - [velocity.js](https://github.com/julianshapiro/velocity)
 - [animate.css](https://github.com/daneden/animate.css)
+- [GSAP](https://github.com/greensock/GSAP)
 
 ### CSS
 - [stylelint](https://stylelint.io/)
